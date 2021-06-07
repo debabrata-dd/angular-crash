@@ -19,16 +19,16 @@
       "reminder": true
     },
     {
-      "text": "XXX",
-      "day": "21 May 2021",
-      "reminder": true,
-      "id": 4
-    },
-    {
       "text": "Wake up!",
       "day": "7 May 2021",
-      "reminder": true,
+      "reminder": false,
       "id": 5
+    },
+    {
+      "text": "Sit-ups 50",
+      "day": "10-06-2021",
+      "reminder": true,
+      "id": 6
     }
   ]
 }
